@@ -1,3 +1,4 @@
 # glasseffect
 Use of Backdrop-filter
-backdrop-filter: blur(10px)
+backdrop-filter: blur(5px);
+
